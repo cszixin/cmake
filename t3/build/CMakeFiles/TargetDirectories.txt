@@ -1,0 +1,6 @@
+/Users/cszixin/cmake/demo/cmake/t3/build/CMakeFiles/edit_cache.dir
+/Users/cszixin/cmake/demo/cmake/t3/build/CMakeFiles/rebuild_cache.dir
+/Users/cszixin/cmake/demo/cmake/t3/build/lib_hello/CMakeFiles/hello_static.dir
+/Users/cszixin/cmake/demo/cmake/t3/build/lib_hello/CMakeFiles/edit_cache.dir
+/Users/cszixin/cmake/demo/cmake/t3/build/lib_hello/CMakeFiles/rebuild_cache.dir
+/Users/cszixin/cmake/demo/cmake/t3/build/lib_hello/CMakeFiles/hello_shared.dir
